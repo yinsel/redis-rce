@@ -5,7 +5,11 @@ A exploit for Redis 4.x/5.x RCE, inspired by [Redis post-exploitation](https://2
 This repo is a modified version of <https://github.com/n0b0dyCN/redis-rogue-server> .
 ## Usage:
 
-Compile exp.so from <https://github.com/RicterZ/RedisModules-ExecuteCommand>.
+Compile exp.so/exp.dll from
+
+<https://github.com/RicterZ/RedisModules-ExecuteCommand>
+
+<https://github.com/0671/RedisModules-ExecuteCommand-for-Windows>.
 
 
 ```
